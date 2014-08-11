@@ -1,5 +1,8 @@
+
 Rails3 Bootstrap Devise Cancan
 =========
+
+Rails application using bootstrap for ui, device for autentication and cancan for authorizaton
 
 This application was generated with the [rails_apps_composer](https://github.com/RailsApps/rails_apps_composer) gem
 provided by the [RailsApps Project](http://railsapps.github.io/).
@@ -147,3 +150,6 @@ License
 -------
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+=======
+
+
